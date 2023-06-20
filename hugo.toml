@@ -1,6 +1,6 @@
-baseURL = 'http://www.hugo.com/'
+baseURL = 'https://wonima136.github.io/linuxcool/'
 languageCode = 'zh'
-title = '测试网站1'
+title = 'Linux'
 min = "0.113.0" # Hugo 版本号
 [params]
   description = "网站首页的描述"
