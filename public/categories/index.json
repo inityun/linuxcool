@@ -1,0 +1,14 @@
+{
+  "title": "Categories",
+  "description": "",
+  "taxonomy": "taxonomy",
+  "terms": [{
+        "name": "Hugo",
+        "count": 10,
+        "url": "http://www.hugo.com/categories/hugo/"
+      },{
+        "name": "Linux",
+        "count": 1346,
+        "url": "http://www.hugo.com/categories/linux/"
+      }]
+}

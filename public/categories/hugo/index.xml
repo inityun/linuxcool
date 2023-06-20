@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on 测试网站1</title>
+    <link>http://www.hugo.com/categories/hugo/</link>
+    <description>Recent content in Hugo on 测试网站1</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sun, 18 Jun 2023 16:22:52 +0800</lastBuildDate><atom:link href="http://www.hugo.com/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1：文件管理</title>
+      <link>http://www.hugo.com/file/</link>
+      <pubDate>Sun, 18 Jun 2023 16:22:52 +0800</pubDate>
+      
+      <guid>http://www.hugo.com/file/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2：文档编辑</title>
+      <link>http://www.hugo.com/document/</link>
+      <pubDate>Sun, 18 Jun 2023 16:22:52 +0800</pubDate>
+      
+      <guid>http://www.hugo.com/document/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3：系统管理</title>
+      <link>http://www.hugo.com/system/</link>
+      <pubDate>Sun, 18 Jun 2023 16:22:52 +0800</pubDate>
+      
+      <guid>http://www.hugo.com/system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>4：磁盘管理</title>
+      <link>http://www.hugo.com/disk/</link>
+      <pubDate>Sun, 18 Jun 2023 16:22:52 +0800</pubDate>
+      
+      <guid>http://www.hugo.com/disk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>5：文件传输</title>
+      <link>http://www.hugo.com/transfer/</link>
+      <pubDate>Sun, 18 Jun 2023 16:22:52 +0800</pubDate>
+      
+      <guid>http://www.hugo.com/transfer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>6：网络通讯</title>
+      <link>http://www.hugo.com/network/</link>
+      <pubDate>Sun, 18 Jun 2023 16:22:52 +0800</pubDate>
+      
+      <guid>http://www.hugo.com/network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>7：设备管理</title>
+      <link>http://www.hugo.com/device/</link>
+      <pubDate>Sun, 18 Jun 2023 16:22:52 +0800</pubDate>
+      
+      <guid>http://www.hugo.com/device/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>8：备份压缩</title>
+      <link>http://www.hugo.com/backup/</link>
+      <pubDate>Sun, 18 Jun 2023 16:22:52 +0800</pubDate>
+      
+      <guid>http://www.hugo.com/backup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>9：其他命令</title>
+      <link>http://www.hugo.com/other/</link>
+      <pubDate>Sun, 18 Jun 2023 16:22:52 +0800</pubDate>
+      
+      <guid>http://www.hugo.com/other/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>扩展：知识干货</title>
+      <link>http://www.hugo.com/knowledge/</link>
+      <pubDate>Sun, 18 Jun 2023 16:22:52 +0800</pubDate>
+      
+      <guid>http://www.hugo.com/knowledge/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
